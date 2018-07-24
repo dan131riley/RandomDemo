@@ -34,7 +34,7 @@ git clone https://github.com/dan131riley/RandomDemo.git
 Change into the course folder, then type:
 
 ```bash
-#cd RandomDemo
+cd RandomDemo
 conda env create -f conda-envt.yml
 source activate codas-random
 ```
