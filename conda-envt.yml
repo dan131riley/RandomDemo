@@ -1,0 +1,6 @@
+name: codas-random
+channels:
+dependencies:
+  - python=3.6
+  - matplotlib
+  - jupyter
