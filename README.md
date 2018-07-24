@@ -1,9 +1,9 @@
-#Random Number demos for CoDaS 2018
+# Random Number demos for CoDaS 2018
 
 https://ml-front.nautilus.optiputer.net/index.html
 
 # Getting started
-To be able to follow the workshop exercises, you are going to need a laptop with Miniconda (a minimal version of Anaconda) and several Python packages installed. Following instruction would work as is for Mac or Ubuntu linux users, Windows users would need to install and work in the Gitbash terminal.
+To be able to run the demo, you are going to need a laptop with Miniconda (a minimal version of Anaconda) and several Python packages installed, or use the resources used for the PyTorch tutorial.
 
 ## Download and install Miniconda
 Please go to the following website: https://conda.io/miniconda.html
